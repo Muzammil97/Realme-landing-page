@@ -12,7 +12,7 @@ const products = {
     {
       name: "realme C75",
       description: "Dhulai Horai Hai",
-      price: "N/A",
+      price: "Rs. 99,000",
       link: "https://www.realme.com/pk/realme-c75",
       image: "https://image01.realme.net/general/20241212/1733967866096fa2982967549485db8c3259a0f9a1fe7.png"
     },
